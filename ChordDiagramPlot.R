@@ -1,6 +1,5 @@
 # Name: Cheng Chua
-# Student ID: 764526
-# Subject: GEOM90008 Spatial Visualisation
+# Subject: GEOM90007 Spatial Visualisation
 # Assignment 1: R project
 
 # About this plot:
