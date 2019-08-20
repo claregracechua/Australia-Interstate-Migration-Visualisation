@@ -53,7 +53,7 @@ data_long <- d %>%
 # Creating a pdf file, to roughly an A4 portrait size,
 # with minor size modifications for ease of reading
 # Comment this portion out if plot does not appear in RStudio
-pdf("ChengChua_764526_SpatialVisualisation_Assignment1R.pdf", 
+pdf("dataplot.pdf", 
     height = 11, 
     width =  8.27)
 
