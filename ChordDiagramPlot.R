@@ -1,6 +1,4 @@
 # Name: Cheng Chua
-# Subject: GEOM90007 Spatial Visualisation
-# Assignment 1: R project
 
 # About this plot:
 # This is a chord diagram plot, visualising the
