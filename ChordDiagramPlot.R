@@ -1,5 +1,3 @@
-# Name: Cheng Chua
-
 # About this plot:
 # This is a chord diagram plot, visualising the
 # interstate migration in Australia.
